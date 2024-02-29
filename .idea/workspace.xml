@@ -5,14 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08d8a312-f2fc-450f-8253-5b07fcffe731" name="Changes" comment="Test">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aplikacjablog/static/css/blog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aplikacjablog/templates/blog/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aplikacjablog/templates/blog/post/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4bf96da4-6769-4ec0-aa9f-5e58377d5d63.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/4bf96da4-6769-4ec0-aa9f-5e58377d5d63.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplikacjablog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacjablog/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,21 +40,28 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "Django Server.Blog.executor": "Run",
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/student/Documents/Fifi3tp/Blog",
+    "last_opened_file_path": "C:/Users/student/Documents/Fifi3tp/Blog/aplikacjablog/static/css",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\student\Documents\Fifi3tp\Blog\aplikacjablog\static\css" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Blog" type="Python.DjangoServer" factoryName="Django server">
       <module name="Blog" />
@@ -93,6 +111,11 @@
       <workItem from="1708000458669" duration="5345000" />
       <workItem from="1708591690679" duration="25000" />
       <workItem from="1708605363868" duration="6000" />
+      <workItem from="1708605406059" duration="4055000" />
+      <workItem from="1709197137227" duration="62000" />
+      <workItem from="1709205482266" duration="68000" />
+      <workItem from="1709205601947" duration="634000" />
+      <workItem from="1709209967057" duration="4090000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <option name="closed" value="true" />
@@ -134,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708005929055</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Test">
+      <option name="closed" value="true" />
+      <created>1708609987717</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708609987717</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
