@@ -6,8 +6,7 @@
     <h1>Mój blog</h1>
     {% for post in posts %}
         <h2>{{ post.title }}</h2>
-        <p class="data">Opublikowany {{ post.publish }} przez {{ post.author }}</p>
+        <p class="date">Opublikowany {{ post.publish }} przez {{ post.author }}</p>
         {{ post.body|truncatewords:30|linebreaks }}
-
     {% endfor %}
 {% endblock %}
