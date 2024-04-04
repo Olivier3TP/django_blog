@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08d8a312-f2fc-450f-8253-5b07fcffe731" name="Changes" comment="kolejny commit">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/17cb8280-bee5-4ce0-9a19-04fb6560f296.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/17cb8280-bee5-4ce0-9a19-04fb6560f296.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4bf96da4-6769-4ec0-aa9f-5e58377d5d63.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/4bf96da4-6769-4ec0-aa9f-5e58377d5d63.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aplikacjablog/templates/blog/pagination.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aplikacjablog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacjablog/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacjablog/templates/blog/post/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacjablog/templates/blog/post/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplikacjablog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacjablog/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aplikacjablog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/aplikacjablog/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +118,7 @@
       <workItem from="1709209967057" duration="4148000" />
       <workItem from="1709801843143" duration="60000" />
       <workItem from="1710419971595" duration="5083000" />
-      <workItem from="1712230600936" duration="2516000" />
+      <workItem from="1712230600936" duration="4710000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <option name="closed" value="true" />
@@ -196,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710425059031</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="kolejny commit">
+      <option name="closed" value="true" />
+      <created>1712233778691</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1712233778691</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
